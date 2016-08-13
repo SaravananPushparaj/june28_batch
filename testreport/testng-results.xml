@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Junebatch" duration-ms="64950" started-at="2016-08-13T16:10:01Z" finished-at="2016-08-13T16:11:06Z">
+    <groups>
+      <group name="regression">
+        <method signature="Scenario_Search.test_ValidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Scenario_Component.Scenario_Search@5bb21b69]" name="test_ValidSearch" class="Scenario_Component.Scenario_Search"/>
+      </group> <!-- regression -->
+    </groups>
+    <test name="RegSet1" duration-ms="64950" started-at="2016-08-13T16:10:01Z" finished-at="2016-08-13T16:11:06Z">
+      <class name="Scenario_Component.Scenario_Search">
+        <test-method status="PASS" signature="test_ValidSearch(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Scenario_Component.Scenario_Search@5bb21b69]" name="test_ValidSearch" duration-ms="64736" started-at="2016-08-13T21:40:01Z" data-provider="dp_ValidSearch" finished-at="2016-08-13T21:41:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GB_02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mangoes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[183]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_ValidSearch -->
+      </class> <!-- Scenario_Component.Scenario_Search -->
+    </test> <!-- RegSet1 -->
+  </suite> <!-- Junebatch -->
+</testng-results>

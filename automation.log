@@ -1,0 +1,39 @@
+2016-08-13 04:59:37 INFO  Scenario_Search:20 - Executing the Testcase GB_01
+2016-08-13 05:03:52 INFO  Scenario_Search:20 - Executing the Testcase GB_01
+2016-08-13 05:08:06 INFO  Scenario_Search:20 - Executing the Testcase GB_01
+2016-08-13 05:08:52 INFO  Scenario_Search:39 - Passed as Actual message is Sorry! There are no products to display.  Expected message is  Sorry! There are no products to display.
+2016-08-13 05:15:43 INFO  Scenario_Search:20 - Executing the Testcase GB_01
+2016-08-13 05:16:25 INFO  Scenario_Search:44 - Failed as Actual message is Sorry! There are no products to display.  Expected message is  Sorry! There are no products to
+2016-08-13 05:16:35 INFO  Scenario_Search:57 - Executing the Testcase GB_01
+2016-08-13 05:20:59 INFO  Scenario_Search:20 - Executing the Testcase GB_01
+2016-08-13 05:21:39 INFO  Scenario_Search:44 - Failed as Actual message is Sorry! There are no products to display.  Expected message is  Sorry! There are no products to
+2016-08-13 05:21:49 INFO  Scenario_Search:57 - Executing the Testcase GB_02
+2016-08-13 05:22:35 INFO  Scenario_Search:81 - Failed as Actual message is 183 products  Expected message is  178
+2016-08-13 05:26:47 INFO  Scenario_Search:20 - Executing the Testcase GB_01
+2016-08-13 05:27:24 INFO  Scenario_Search:39 - Passed as Actual message is Sorry! There are no products to display.  Expected message is  Sorry! There are no products to display.
+2016-08-13 05:27:34 INFO  Scenario_Search:57 - Executing the Testcase GB_02
+2016-08-13 05:28:18 INFO  Scenario_Search:78 - Passed as Actual message is 183  Expected message is  183
+2016-08-13 05:28:28 INFO  Scenario_Search:57 - Executing the Testcase GB_03
+2016-08-13 05:29:06 INFO  Scenario_Search:83 - Failed as Actual message is 339  Expected message is  428
+2016-08-13 05:29:16 INFO  Scenario_Search:57 - Executing the Testcase GB_04
+2016-08-13 05:30:01 INFO  Scenario_Search:83 - Failed as Actual message is 3  Expected message is  4
+2016-08-13 07:05:01 INFO  Scenario_Search:20 - Executing the Testcase GB_01
+2016-08-13 07:05:44 INFO  Scenario_Search:40 - Passed as Actual message is Sorry! There are no products to display.  Expected message is  Sorry! There are no products to display.
+2016-08-13 07:05:55 INFO  Scenario_Search:60 - Executing the Testcase GB_02
+2016-08-13 07:06:34 INFO  Scenario_Search:82 - Passed as Actual message is 183  Expected message is  183
+2016-08-13 07:08:06 INFO  Scenario_Search:60 - Executing the Testcase GB_02
+2016-08-13 07:08:49 INFO  Scenario_Search:83 - Passed as Actual message is 183  Expected message is  183
+2016-08-13 20:47:43 INFO  Scenario_Search:21 - Executing the Testcase GB_05
+2016-08-13 20:48:30 INFO  Scenario_Search:66 - Executing the Testcase GB_08
+2016-08-13 20:55:03 INFO  Scenario_Search:21 - Executing the Testcase GB_05
+2016-08-13 20:56:05 INFO  Scenario_Search:67 - Executing the Testcase GB_08
+2016-08-13 21:05:52 INFO  Scenario_Search:21 - Executing the Testcase GB_05
+2016-08-13 21:08:19 INFO  Scenario_Search:21 - Executing the Testcase GB_05
+2016-08-13 21:17:37 INFO  Scenario_Search:21 - Executing the Testcase GB_05
+2016-08-13 21:18:30 INFO  Scenario_Search:47 - Passed as Actual message is Raw Mango - Diced  Expected message is  Raw Mango - Diced
+2016-08-13 21:24:55 INFO  Scenario_Search:67 - Executing the Testcase GB_08
+2016-08-13 21:25:41 INFO  Scenario_Search:95 - Passed as Actual message is There are no items in your basket.  Expected message is  There are no items in your basket.
+2016-08-13 21:38:49 INFO  Scenario_Search:60 - Executing the Testcase GB_02
+2016-08-13 21:39:25 INFO  Scenario_Search:83 - Passed as Actual message is 183  Expected message is  183
+2016-08-13 21:40:01 INFO  Scenario_Search:? - Executing the Testcase GB_02
+2016-08-13 21:40:56 INFO  Scenario_Search:? - Passed as Actual message is 183  Expected message is  183
